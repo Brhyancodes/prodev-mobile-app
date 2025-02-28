@@ -11,7 +11,6 @@ import {
   TouchableHighlight,
 } from "react-native";
 import { FILTERS, SAMPLE_DATA } from "@/constants/data";
-import "@/styles/global.css"; 
 
 const Home = () => {
   return (
